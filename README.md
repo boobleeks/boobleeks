@@ -30,5 +30,5 @@
 ---
 ### 📫 Contact Me
 
-- Email: **your.email@example.com**
+- Email: abdugaforovvv@gmail.com
 - Telegram: [@gulom_mirzo](https://t.me/gulom_mirzo)
