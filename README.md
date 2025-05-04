@@ -14,7 +14,6 @@
 - 💻 Currently focused on **Python/Django backend development**
 - 🧠 Learning **React, Node.js**, and modern full-stack web development
 - 🔨 Building projects to solidify my skills and build a portfolio
-- 🎯 Goal: Become a senior software engineer
 - 📍 Based in Uzbekistan, open to **remote collaboration or internships**
 
 ---
