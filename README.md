@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Gulom-Mirzo 👋</h1>
 <p align="center">
-  🧑‍💻 Aspiring Full-Stack Developer • Python • Django • JavaScript • SQL  
+  🧑‍💻 Aspiring Backend Developer • Python • Django • JavaScript • SQL  
 </p>
 
 <p align="center">
@@ -11,8 +11,7 @@
 
 ### 👨‍💻 About Me
 
-- 💻 Currently focused on **Python/Django backend development**
-- 🧠 Learning **React, Node.js**, and modern full-stack web development
+- 💻 Currently focused on **Python/Django/Aiogram backend development**
 - 🔨 Building projects to solidify my skills and build a portfolio
 - 📍 Based in Uzbekistan, open to **remote collaboration or internships**
 
@@ -21,10 +20,10 @@
 ### 🛠️ Tech Stack
 
 - 💻 **Languages**: Python, JavaScript, SQL  
-- 🌐 **Frameworks**: Django, Django REST Framework, FastAPI  
+- 🌐 **Frameworks**: Aiogram, Django, Django REST Framework, FastAPI,  
 - 🛢️ **Databases**: PostgreSQL, SQLite  
-- ⚙️ **Tools**: Git, Docker, Linux  
-- 💻 **Frontend**: HTML, CSS, JS, React (learning)  
+- ⚙️ **Tools**: Git, Docker, Linux, Nginx  
+- 💻 **Frontend**: HTML, CSS, JS
 
 ---
 ### 📫 Contact Me
